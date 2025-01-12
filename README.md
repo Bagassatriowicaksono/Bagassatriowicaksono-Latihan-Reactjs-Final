@@ -1,8 +1,8 @@
-# Project Name
+# Latihan Reactjs UAS_PSK_A11.2022.14497
 
 This project is based on the repository by [original author](https://github.com/original-author).
 
-## Description
+## Deskripsi
 Proyek ini adalah aplikasi web yang dibangun pakai React.js, yang dibuat untuk tugas kuliah Pemrograman Sisi Klien dan juga Ulangan Akhir Semester (UAS). Aplikasi ini dibuat supaya saya bisa lebih paham tentang cara membuat antarmuka pengguna dengan React, dengan memanfaatkan fitur-fitur seperti React Router untuk navigasi antar halaman dan State Management menggunakan hooks seperti useState dan useEffect. Tujuan dari proyek ini adalah untuk melatih kemampuan dalam membuat aplikasi web yang interaktif dan dinamis, serta menerapkan konsep-konsep dasar React untuk menyelesaikan masalah dalam pengembangan web. Selain itu, aplikasi ini juga jadi cara saya untuk mempersiapkan ujian akhir dengan mengaplikasikan apa yang sudah dipelajari selama semester ini.
 
 # React + Vite
